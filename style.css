@@ -1,0 +1,12 @@
+body {
+  background-color: powderblue;
+}
+
+h1 {
+  color: #000000;
+  font-size: 390%;
+  border: 1px solid black;
+  padding: 80px;
+  margin: 45px;
+  text-align: center;
+}
